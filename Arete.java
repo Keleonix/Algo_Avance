@@ -1,4 +1,4 @@
-public class Arrete{
+public class Arete{
 
   static int ID;
   int id;
